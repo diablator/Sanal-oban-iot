@@ -1,0 +1,1 @@
+// ESP32 GPS + BLE + LoRa kodu (placeholder)
